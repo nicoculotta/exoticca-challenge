@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,EACI,qCAAuC,CACvC,QAAS,CACT,SAAU,CACV,qBACJ,CAEA,aACI,uBACJ","file":"main.f2b757bd.chunk.css","sourcesContent":["* {\r\n    font-family: 'Red Hat Text', sans-serif;\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\n.slick-track {\r\n    margin-left: 0 !important;\r\n}\r\n\r\n\r\n"]}
